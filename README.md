@@ -4,7 +4,7 @@ A simple Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript. This proj
 
 ## Demo
 
-You can play the game online [here](https://your-username.github.io/tic-tac-toe-game/).
+You can play the game online [here](https://anub2301.github.io/Tic_Tac_Toe/).
 
 ## Features
 
